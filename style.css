@@ -1,0 +1,97 @@
+ 
+
+
+
+
+
+
+
+
+
+/*************** External Stylesheet ********************/
+
+
+
+
+
+
+/* BACKGROUNDS */
+body
+{
+    background-color: #eee;
+}
+#i1
+{
+    padding-left: 200px;
+}
+h2
+{
+    text-align: center; /* center , left , right , justify*/
+    color :
+grey /* colorname , rgb('255,0,0') , Hex: #FF0000 */
+    text-transform: uppercase; /* uppercase , lowercase , capitalize*/
+    font-size: 32px; /* default for heading1: 32px  , default for paragraphs: 16px  */
+font-family: sans-serif;
+}
+a:hover 
+{
+    text-decoration:none; /* line-through , underline , overline , none */
+    color:green;
+}
+div
+{
+    padding: 80px;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav
+{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(255,255,255);
+}
+ul
+{
+    margin-left: 60px;
+}
+ul li
+{
+    list-style: none;
+    display: inline-block;
+    float: left;
+    line-height: 60px;
+}
+ul li a
+{
+    display: block;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial;
+    color: #1e1e1e;
+    padding: 0 20px;
+}
+a:hover
+{
+    text-decoration: none;
+    color:red;
+}
+li span a
+{
+    padding-top: 15px;
+}
+#l1
+{
+    padding-left: 700px;
+}
+#h1
+{
+    text-align: center;
+    color: rgb(100,100,100);
+}
+#u1
+{
+    padding-left: 50px;
+}

@@ -1,0 +1,36 @@
+body{
+
+background:url('https://img.freepik.com/free-photo/close-up-kettlebells-with-woman-exercise-workout-gym-fitness-breaking-relax-after-sport_10307-971.jpg?size=626&ext=jpg');
+background-size: 100%;
+background: cover;
+}
+h1{
+    text-align: center;
+    font-size: large;
+    color: rgb(233, 224, 225);
+    text-transform: uppercase;
+    font-size: 30px;
+    font-family: sans-serif;
+    
+}
+.y
+{
+    color:rgb(231, 194, 31);
+}.d
+{   position: absolute;
+    top:0;
+    right:0;
+    color:rgb(194, 159, 159);
+}
+p{
+    color:rgba(0, 0, 0, 0.836);
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    
+    
+}
+h2{
+    font-size: 30px;
+    font-weight: 800;
+}

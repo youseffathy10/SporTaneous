@@ -1,0 +1,130 @@
+body{
+background:url("sora.jpg");
+background-size: cover;
+margin: 0;
+padding: 0 ;
+background-size: 100%;
+/*font-family: sans-serif;*/
+background-attachment: fixed;
+
+}
+h1{
+    text-align: center;
+    color: rgb(233, 224, 225); 
+   /* text-transform: uppercase;*/
+    font-size: 50px;
+    margin-right:20%;
+}
+.c10{
+    color:rgb(231, 194, 31);
+
+}
+
+.q10{
+    font-size:45px;
+    font-family: sans-serif;
+    display: block;
+    text-align: center;
+    color:rgb(233, 224, 225);
+    margin-right: 5%;
+}
+.r10{
+    color:rgb(231, 194, 31);
+}
+#sora
+{ 
+    margin-left:10%; 
+}
+#sora2{
+    margin-left:30%;
+}
+#sora3{
+    margin-left:35%;
+
+}
+
+
+#e100
+{color: rgb(233, 224, 225);
+    font-size:30px;
+   
+    color:rgb(233, 224, 225);
+    margin-left:15%; 
+    
+
+}
+
+#e200
+{  
+    font-size:30px;
+   
+    color:rgb(233, 224, 225);
+    margin-left:40%; 
+   
+}
+#e300{
+    font-size:30px;
+   
+    color:rgb(233, 224, 225);
+    margin-left:35%;
+}
+.t10{
+    color:rgb(233, 224, 225);
+    text-decoration: none;
+}
+
+#a10
+{
+    margin-right:50%;
+    display: block;
+    margin-top: 100%;
+
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
+nav
+{
+    width: 100%;
+    height: 60px;
+    background-color: rgb(255,255,255);
+}
+ul
+{
+    margin-left: 60px;
+}
+ul li
+{
+    list-style: none;
+    display: inline-block;
+    float: left;
+    line-height: 60px;
+}
+ul li a
+{
+    display: block;
+    text-decoration: none;
+    font-size: 14px;
+    font-family: arial;
+    color: #1e1e1e;
+    padding: 0 20px;
+}
+a:hover
+{
+    text-decoration: none;
+    color:red;
+}
+li span a
+{
+    padding-top: 15px;
+}
+#l1
+{
+    padding-left: 700px;
+}
+a img
+{
+    border-radius: 50px;
+}
